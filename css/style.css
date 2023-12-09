@@ -1,20 +1,15 @@
 body {
-    		background-image:  url("../images/загружено (2).jpg");
-background-repeat: no-repeat;
-background-size: cover;
+    background-image:  url("../images/загружено (2).jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
-    	di {
-    		background-color: grey;
-    		width: 500px;
-    		color: #3467ba;
-    	}
-		
-a{
+	
+a {
 	color: brown;
 	font-size: 50px
 }
 
-#fuflo{
+#fuflo {
 	color: green;
 }
 
@@ -49,6 +44,7 @@ a{
 #fuflo:hover {
 	border: 10px solid black
 }
+
 #ramka {
 	border: 10px solid red
 	padding: 15px;
