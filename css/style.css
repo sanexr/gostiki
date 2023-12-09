@@ -1,0 +1,86 @@
+body {
+    		background-image:  url("../images/загружено (2).jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+    	di {
+    		background-color: grey;
+    		width: 500px;
+    		color: #3467ba;
+    	}
+		
+a{
+	color: brown;
+	font-size: 50px
+}
+
+#fuflo{
+	color: green;
+}
+
+.klak {
+	border: 2px solid black;
+	background-color: #62695b;
+	color: white;
+	font-size: 45px;
+	margin: 10px;
+	padding: 5px;
+	display: flex;
+	flex-direction: row;
+}
+
+.krut {
+	background-color: green;
+}
+
+.vert {
+	background-color: red;
+}
+
+.vgik {
+	background-color: #fffb03;
+	color: black;
+}
+
+.klak:hover {
+	border: 10px solid black
+}
+
+#fuflo:hover {
+	border: 10px solid black
+}
+#ramka {
+	border: 10px solid red
+	padding: 15px;
+	border-radius: 20px
+	font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+		<h1>gNG</h1><h6>title</h6>
+		<a href="https://app.moiashkola.ua/">
+			<img src="./images/загружено (2).jpg" />
+			<p><a href="https://www.google.com/">как</a> </p>
+		</a>
+	</div>
+
+	<a </a><br/>
+	<a </a><br/>
+	<a </a><br/>
