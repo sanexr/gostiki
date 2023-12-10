@@ -41,7 +41,7 @@ body {
 	border: 1px solid black;
 	padding: 35px;
 	flex-basis: 50%;
-
+	transition: 0.4s;
 }
 
 .end:hover {
