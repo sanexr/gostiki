@@ -1,26 +1,49 @@
+body {
+	background-color: #03fc03;
+}
+
 .header {
 	display: flex;
+	background-color: white;
 }
 
 .text {
+	background-color: white;
 	display: inline-block;
-	font-size: 40px;
 	border: 1px solid black;
 	padding: 30px;
-	height: 50px;
+	
 	flex-basis: 50%;
 }
 
 .t-shirt {
 	display: flex;
-	align-items: center;
 	margin-top: 70px;
 	justify-content: space-around;
 }
 
 .tata {
+	background-color: white;
 	border: 1px solid black;
     width: 200px;
-    height: 50px;
     padding: 20px;
+}
+
+.wowa {
+	display: flex;
+	margin-top: 70px;
+	justify-content: space-around;
+}
+
+.end {
+	background-color: white;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 35px;
+	flex-basis: 50%;
+
+}
+
+.end:hover {
+	border: 10px solid red
 }
