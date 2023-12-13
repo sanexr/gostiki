@@ -14,7 +14,6 @@ body {
 	display: inline-block;
 	border: 1px solid black;
 	padding: 30px;
-	
 	flex-basis: 50%;
 }
 
@@ -49,3 +48,17 @@ body {
 .end:hover {
 	border: 10px solid red
 }
+
+.foot {
+	display: flex;
+	margin-top: 70px;
+	justify-content: space-around;
+}
+
+.footer {
+    background-color: white;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 30px;
+	flex-basis: 50%;
+}	
