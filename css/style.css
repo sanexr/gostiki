@@ -17,6 +17,11 @@ body {
 	flex-basis: 50%;
 }
 
+.logo {
+	width: 220px;
+	height: 200px;
+}
+
 .t-shirt {
 	display: flex;
 	margin-top: 70px;
