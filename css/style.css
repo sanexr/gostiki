@@ -17,14 +17,22 @@ body {
 	flex-basis: 50%;
 }
 
+.a {
+	font-size: 40px;
+}
+
 .logo {
 	width: 220px;
 	height: 200px;
 }
 
+.ter {
+	width: 40px;
+	height: 40px;
+}
+
 .t-shirt {
 	display: flex;
-	margin-top: 70px;
 	justify-content: space-around;
 }
 
@@ -32,6 +40,20 @@ body {
 	background-color: white;
 	border: 1px solid black;
     width: 200px;
+    padding: 20px;
+}
+
+.gerb {
+	display: flex;
+	margin-top: 70px;
+	justify-content: space-around;
+}
+
+.ger {
+	background-color: white;
+	border: 1px solid black;
+    width: 200px;
+    height: 200px;
     padding: 20px;
 }
 
@@ -67,3 +89,12 @@ body {
 	padding: 30px;
 	flex-basis: 50%;
 }	
+
+.d {
+	flex: 80%;
+}
+
+.fer {
+	width: 150px;
+	height: 150px;
+}
