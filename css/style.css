@@ -102,3 +102,42 @@ body {
 	width: 150px;
 	height: 150px;
 }
+
+/*----------------media queries------------------*/
+
+@media (max-width: 1200px) {
+
+	.fer {
+		width: 80px;
+		height: 80px;
+	}
+
+	.a {
+		font-size: 17px;
+	}
+
+}
+
+@media (max-width: 700px) {
+	.t-shirt {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.fer {
+		width: 50px;
+		height: 50px;
+	}
+
+	.tata {
+		margin-bottom: 40px;
+	}
+
+	.a {
+		display: none;
+	}
+
+	.text {
+		border: none;
+	}
+}
