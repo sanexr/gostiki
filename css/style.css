@@ -36,15 +36,13 @@ body {
 }
 
 .t-shirt {
-	display: flex;
-	justify-content: space-around;
 	margin-top: 70px;
 }
 
 .tata {
 	background-color: white;
 	border: 1px solid black;
-    width: 200px;
+	height: 100%;
 }
 
 .gerb {
@@ -118,22 +116,24 @@ body {
 
 }
 
-@media (max-width: 700px) {
-	.t-shirt {
-		flex-direction: column;
-		align-items: center;
+@media (max-width: 991px) {
+	.tata-wrapper {
+		margin-bottom: 40px;
 	}
+}
 
+@media (max-width: 700px) {
+	
 	.fer {
 		width: 50px;
 		height: 50px;
 	}
 
-	.tata {
-		margin-bottom: 40px;
+	.a {
+		display: none;
 	}
 
-	.a {
+	.b {
 		display: none;
 	}
 
